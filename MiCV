@@ -1,0 +1,27 @@
+<!DOCTYPE html> <!-- version de HTML a usar-->
+<html> <!-- inicio del documento html-->
+    <head> <!-- inicio de la cabecera-->
+        <meta charset="UTF-8"> <!--character set-->
+        <link type="text/css" rel="stylesheet" media="screen" href="estilos.css" />
+        
+        <title>Mi página Web</title>  
+    </head> 
+    <body> <!--Inicio del cuerpo-->
+        <div id="site">
+            <div id="header">
+            
+            </div>
+            <div id="cuerpo">
+                <div id="cuerpo-left">
+                
+                </div>
+                <div id="cuerpo-right">
+                
+                </div>
+            </div>
+            <div id="footer">
+            
+            </div>
+        </div>
+    </body>
+</html> <!--fin del documento-->
